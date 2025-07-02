@@ -1,0 +1,4 @@
+langchain
+wikipedia
+langchain-community
+pydantic
