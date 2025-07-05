@@ -1,4 +1,7 @@
 langchain
+langchain_core
+langchain_ollama
 wikipedia
 langchain-community
 pydantic
+duckduckgo_search
